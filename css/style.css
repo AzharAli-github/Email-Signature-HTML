@@ -1,0 +1,28 @@
+section {
+    background-image: url(../images/ezgif.com-gif-maker.png);
+    background-size: cover;
+    padding: 30px 0px;
+}
+
+.topIntro img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.details p {
+    font-size: 17px;
+    font-family: monospace;
+}
+
+.detailFirst i {
+    font-size: 18px;
+}
+
+.socialIcons i {
+    background-color: #14a800;
+}
+
+.socialIcons i:hover {
+    background-color: #0b35f5;
+}
